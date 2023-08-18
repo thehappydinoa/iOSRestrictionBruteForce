@@ -12,7 +12,7 @@ This version of the application is written in Python, which is used to crack the
 
 This has been tested with [Python 2.7](https://www.python.org/downloads/release/python-271/) and [Python 3.7](https://www.python.org/downloads/release/python-365/)
 
-Requires [requests](http://docs.python-requests.org/en/master/) Install with `pip install requests`
+Requires [requests][def] Install with `pip install requests`
 
 ## Usage
 
@@ -96,3 +96,6 @@ Like the project? Please support to ensure continued development going forward:
 ## LICENSE
 
 [MIT License](LICENSE)
+
+
+[def]: http://docs.python-requests.org/en/master/
